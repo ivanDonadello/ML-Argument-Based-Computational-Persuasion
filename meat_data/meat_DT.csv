@@ -1,0 +1,45 @@
+id	text	label	attack	support	color
+1	Try to consume less red meat				red
+2	I really like the taste of meat		1		
+3	It's difficult to change diet habits		1		
+4	Sometimes it is a matter of getting used to it. You could remove meat from your dishes slowly		3		
+5	Think about the benefit of eating less meat		3		
+6	There are plenty of vegetarian recipes		3		
+7	My family eats a lot of meat		4		
+8	I often eat outside without possibility of cooking		4		
+109	You can start to cook for them some meat alternatives		7		
+110	You can try ethnic foods or other types of cousines when you eat outside		8		
+111	Bar, pubs, canteens or stalls often valid alternatives to meat		8		
+9	Meat is necessary for a balanced diet		5		
+10	I am not so sure about the benefits of eating less meat		5		
+112	White meat is a valid alternative to red meat		9		
+113	Dishes with cheese or fish are valid alternatives to meat for a right diet		9		
+114	Legumes are a good source of alternative proteins		9		
+115	Too much meat increases the risk of cardiovascular diseases		10		
+116	Eating less meat will reduce the animal cruelty		10		
+117	Eating less meat will reduce the environmental pollution		10		
+118	Too much meat increases the obesity risk		10		
+11	Meat is easier and faster to cook		6		
+119	Try to reduce meat from your recipes slowly. Many non-meat dishes are easy and fast too.		11		
+120	You can try alternative foods like eggs, cheese, vegetables or mushrooms		11		
+13	Fish is a tasty alternative to meat		2		
+14	Many dishes with legumes are tasty		2		
+15	White meat is a valid alternative to red meat		2		
+16	I could try fish instead but it can be expensive		13		
+17	I don’t like that kind of food		13		
+100	Fish is not always expensive, there exists many cheap fish varieties		16		
+101	Give it a try. You could add it to your diet slowly or try different recipes with it		17		
+102	You can try alternative foods like eggs, cheese, vegetables or mushrooms		17		
+18	Meat is easier and faster to cook		14		
+19	I don’t like that kind of food		14		
+103	You can try with white meat that is healthier and easy to cook		18		
+104	Give it a try. You could add it to your diet slowly or try different recipes with it		19		
+105	You can try alternative foods like eggs, cheese, vegetables or mushrooms		19		
+20	White meat contains less iron		15		
+21	I don’t like that kind of food		15		
+106	Beans are rich of iron		20		
+107	Give it a try. You could add it to your diet slowly or try different recipes with it		21		
+108	You can try alternative foods like eggs, cheese, vegetables or mushrooms		21		
+12	Meat is affordable		6		
+121	Alternative foods like eggs, cheese, vegetables or mushrooms are affordable too		12		
+122	Meat is cheap due to the massive exploitation of natural resources. Buying less meal will help the planet		12		
