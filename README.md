@@ -3,8 +3,6 @@ This repo contains the source code and a benchmark for predicting user's utiliti
 
 
 
-CODE WILL BE SOON AVAILABLE
-
 
 
 
